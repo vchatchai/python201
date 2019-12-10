@@ -1,7 +1,6 @@
 import numpy as np
 
-idcard = '3610300032039'
-# idcard = '1101234567890'
+idcard = '1101234567897'
 idcard = np.array(list(idcard[:]), dtype=int)
 
 order = np.arange(13,1, -1)
