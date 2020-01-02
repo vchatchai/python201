@@ -18,7 +18,7 @@ print(f'a[1][2] => {a[1][2]}')
 print(list(np.ndenumerate(a)))
 
 print(f'a[0:2] => {a[0:2]}')
-
+    
 print(f'a[2:] => {a[2:]}')
 
 print(f'a[:,2] => {a[:,2]}')
